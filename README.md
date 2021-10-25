@@ -1,4 +1,4 @@
-<h1>:computer: # Desafio-01 :books:</h1>
+<h1># Desafio-01 :computer::books:</h1>
 <h2>Resolução do 1º desafio do Cybertron. :robot:</h2>
 
 <h3>a) Com suas palavras defina o que é um sistema de controle de versões (VCS)? (máx 10 linhas)</h3>
